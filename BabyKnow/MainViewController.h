@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MainViewController.h
 //  BabyKnow
 //
 //  Created by user on 16/3/23.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MainViewController : UIViewController
 
 @end
-
